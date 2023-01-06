@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "@octokit/rest": "^15.9.4",
-    "jest": "^23.4.0",
+    "jest": "^29.3.1",
     "nock": "^9.4.2",
     "semantic-release": "^12.2.2",
     "standard": "^12.0.1"
